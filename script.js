@@ -23,9 +23,9 @@ function runQuiz() {
 
     if (userAnswer === correct.toLowerCase().trim()) {
       score++;
-      alert("Correct! ✅");
+      alert("Correct!");
     } else {
-      alert(`Wrong! ❌ Correct answer: ${correct}`);
+      alert(`Wrong! Correct answer: ${correct}`);
     }
   }
 
@@ -33,3 +33,4 @@ function runQuiz() {
 }
 
 runQuiz();  // Call this in your console
+
