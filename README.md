@@ -1,5 +1,5 @@
-JavaScript Quiz Game
-Description
+**JavaScript Quiz Game
+Description**
 
 This project is a simple JavaScript Quiz Game that runs completely inside the browser console. It uses an array of questions, prompt() to take input, alert() to give feedback, and displays the final score after completing the quiz. The quiz does not require any HTML or DOM manipulation.
 
